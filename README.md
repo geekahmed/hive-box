@@ -111,4 +111,9 @@ You can get senseBox IDs by checking the [openSenseMap](https://opensensemap.org
 - I would like to note that I have used FastAPI with this application.
   - I used FastAPI as it has modern features like Pydantic models, Dependency injection ease, etc.
   - Many developers will use Flask, so why not change?
+- We have in this phase two releases:
+  - release with tag 0.0.1: This is considered the first half of the project
+    - Structuring folders and files
+    - Implementing the basic code for running FastAPI.
+  - release with tag 0.0.2: This contains the code for the Dockerfile
 
