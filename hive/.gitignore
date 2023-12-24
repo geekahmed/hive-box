@@ -26,3 +26,4 @@ archive.zip
 
 __pycache__/
 .env
+.pytest_cache/
