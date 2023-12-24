@@ -79,3 +79,36 @@ You can get senseBox IDs by checking the [openSenseMap](https://opensensemap.org
 - Document as you go. Always assume that someone else will read your project at any phase.
 
 > I am committed to meticulously documenting every aspect of my work on the Hive Box project within the Github ReadMe main file. This will not only serve as the primary documentation source but also stand as a comprehensive record of the project's evolution. While I have the option to leverage the Knowledge Base feature in YouTrack, I deliberately opt for tools universally accessible to maintain a tool-neutral and inclusive approach for everyone involved. This choice reflects my dedication to transparency and collaboration in the project's development journey. 
+
+
+
+---
+
+## Phase 2
+
+- This phase mainly concentrate on learning or brushing up the basic concepts about the following topics:
+
+  - Python Fundamentals
+  - Common Development Tools
+  - Git Basics
+  - Operating System - Linux Fundamentals
+  - Operating System - Common Tools and Commands
+  - Operating System - Bash Scripting Basics
+  - Containers - Docker Fundamentals
+  - Containers - Docker CLI Basics
+
+- As experienced developer, I have brushed up Linux basic commands and Docker.
+- Regarding Git, I have used the [GitFlow pattern](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) you can learn more from here: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+- My recommendations in learning those concepts for non-experienced developers:
+  - Linux: Linux in Action book by David Clinton.
+  - Docker: Docker Deep Dive.
+    - Ahmed Samy YouTube Video: https://www.youtube.com/watch?v=PrusdhS2lmo
+  - Git: Ahmed Samy YouTube Course: https://www.youtube.com/watch?v=Q6G-J54vgKc
+  - Python: Ahmed Samy Youtube Videos
+    - Part 1: https://www.youtube.com/watch?v=XKQaCF_Om8o
+    - Part 2: https://www.youtube.com/watch?v=mlbe7Vxr7yA
+
+- I would like to note that I have used FastAPI with this application.
+  - I used FastAPI as it has modern features like Pydantic models, Dependency injection ease, etc.
+  - Many developers will use Flask, so why not change?
+
