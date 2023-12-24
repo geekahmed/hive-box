@@ -6,5 +6,5 @@ app = FastAPI()
 
 
 @app.get("/")
-async def read_root():
+async def read_version():
     return {"version": "v0.0.1"}
